@@ -2,4 +2,13 @@
 # Анатолий Юрасов
 Мои домашние задания
 
-[Урок 10](https://AnatolyYurasov.github.io/src/ "Моя готовая домашка") - LESS
+[Урок 2]("Моя готовая домашка") - Вырезание графики из PS
+[Урок 3]("Моя готовая домашка") - Настройка SulimeText
+[Урок 4]("Моя готовая домашка") - Знакомство с основами HTML
+[Урок 5]("Моя готовая домашка") - Знакомство с основами СSS
+[Урок 6]("Моя готовая домашка") - Позиционирование в CSS
+[Урок 7](https://AnatolyYurasov.github.io/First_Site/src/ "Моя готовая домашка") - Первый макет
+[Урок 8](https://AnatolyYurasov.github.io/src/ "Моя готовая домашка") - Ускорение верстки
+[Урок 9](https://AnatolyYurasov.github.io/src/ "Моя готовая домашка") - Bootstrap
+[Урок 10](https://AnatolyYurasov.github.io/src/ "Моя готовая домашка") - Less
+[Урок 11](https://gist.github.com/AnatolyYurasov/79974f3f9e837f672ab99ed3ee0d655f "Моя готовая домашка") - Сниппеты
