@@ -1,0 +1,54 @@
+/* Colors */
+/* Basic Setting */
+html {
+  font-size: 10px;
+}
+.button {
+  background-color: #fcb303;
+  color: #ffffff;
+  /*цвет текста*/
+  padding: 1rem 3rem;
+  /*отступы внутри кнопки*/
+  border-radius: 8px;
+  /*скругление кнопки*/
+  text-transform: uppercase;
+  /*Увеличение шрифта кнопки*/
+  border: none;
+}
+/* Typography */
+section {
+  padding: 10rem 0;
+}
+/* main */
+main {
+  padding: 3rem;
+  /*Отступ сверху от блока*/
+}
+.header {
+  height: 7rem;
+}
+.phone_link {
+  display: inline-block;
+  /*чтобы задавать размеры и отступы*/
+  color: #1a1820;
+  font-weight: 900;
+  font-size: 2rem;
+  height: 7rem;
+  line-height: 7rem;
+  /*Примитивное выравнивание по центру*/
+}
+.wrap {
+  display: table;
+  /*этот класс -таблица*/
+  width: 100%;
+  /*Занимает по ширине 100% эта таблица*/
+  height: 7rem;
+  /**/
+}
+.wrap-block {
+  /*класс wrap-block*/
+  display: table-cell;
+  /*????*/
+  vertical-align: middle;
+  /*выравнивание по середине*/
+}
