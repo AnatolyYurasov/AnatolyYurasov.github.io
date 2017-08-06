@@ -11,6 +11,6 @@
 [Урок 8](https://AnatolyYurasov.github.io/src/ "Моя готовая домашка") - Ускорение верстки  
 [Урок 9](https://AnatolyYurasov.github.io/src/ "Моя готовая домашка") - Bootstrap  
 [Урок 10](https://AnatolyYurasov.github.io/src/ "Моя готовая домашка") - Less  
-[Урок 11](https://gist.github.com/AnatolyYurasov/79974f3f9e837f672ab99ed3ee0d655f "Моя готовая домашка") - Сниппеты  
-[Урок 13](https:// "Моя готовая домашка") - Попиксельная верстка
-[Урок 13](https://AnatolyYurasov.github.io/Lesson_13/src/ "Моя готовая домашка") - Попиксельная верстка
+[Урок 11](https://gist.github.com/AnatolyYurasov/79974f3f9e837f672ab99ed3ee0d655f "Моя готовая домашка") - Сниппеты   
+[Урок 13](https://AnatolyYurasov.github.io/Lesson_13/src/ "Моя готовая домашка") - Попиксельная верстка  
+[Практика 1](https://AnatolyYurasov.github.io/Lesson_13/src/ "Моя готовая домашка")
