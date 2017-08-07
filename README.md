@@ -14,4 +14,5 @@
 [Урок 11](https://gist.github.com/AnatolyYurasov/79974f3f9e837f672ab99ed3ee0d655f "Моя готовая домашка") - Сниппеты   
 [Урок 13](https://AnatolyYurasov.github.io/Lesson_13/src/ "Моя готовая домашка") - Попиксельная верстка  
 [Практика 1](https://AnatolyYurasov.github.io/Pract_1/src "Моя готовая домашка")  
-[Урок 14](https://AnatolyYurasov.github.io/Lesson_14/ "Моя готовая домашка") - Подключение шрифтов 
+[Урок 14](https://AnatolyYurasov.github.io/Lesson_14/ "Моя готовая домашка") - Подключение шрифтов  
+[Практика 2](https://AnatolyYurasov.github.io/Pract_2/src "Моя готовая домашка")  
