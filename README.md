@@ -17,4 +17,6 @@
 [Урок 14](https://AnatolyYurasov.github.io/Lesson_14/ "Моя готовая домашка") - Подключение шрифтов  
 [Практика 2](https://AnatolyYurasov.github.io/Pract_2/src "Моя готовая домашка")  
 [Урок 15](https://AnatolyYurasov.github.io/Lesson_15/ "Моя готовая домашка") - Псевдоклассы  
-[Практика 3](https://AnatolyYurasov.github.io/Pract_2/src "Моя готовая домашка")  
+[Практика 3](https://AnatolyYurasov.github.io/Pract_3/src "Моя готовая домашка")  
+[Урок 16](https://AnatolyYurasov.github.io/Lesson_16/ "Моя готовая домашка") - Слайдеры 
+[Практика 4](https://AnatolyYurasov.github.io/Pract_4/src "Моя готовая домашка")  
