@@ -16,3 +16,5 @@
 [Практика 1](https://AnatolyYurasov.github.io/Pract_1/src "Моя готовая домашка")  
 [Урок 14](https://AnatolyYurasov.github.io/Lesson_14/ "Моя готовая домашка") - Подключение шрифтов  
 [Практика 2](https://AnatolyYurasov.github.io/Pract_2/src "Моя готовая домашка")  
+[Урок 15](https://AnatolyYurasov.github.io/Lesson_15/ "Моя готовая домашка") - Псевдоклассы  
+[Практика 3](https://AnatolyYurasov.github.io/Pract_2/src "Моя готовая домашка")  
