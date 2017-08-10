@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/favicon.ico">
+
+    <title>Всплывающие окна</title>
+
+    <!-- Подключаем стили Bootstrap -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Подключаем наши стили CSS -->
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+  
+  <!-- Button trigger modal -->
+<div class="row">
+      <button class="btn mybtn center-block" data-toggle="modal" data-target="#myModal">
+      Удалить файл
+    </button>
+</div>
+
+    <!-- Modal -->
+    <div class="modal fade bs-example-modal-sm" id="myModal">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header hd">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="confirm" id="myModalLabel">Вопрос</h4>
+          </div>
+          <div class="modal-body">
+           <p>Вы действительно хотите удалить файл?</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="mybtn" data-dismiss="modal">Да</button>
+            <button type="button" class="mybtn" data-dismiss="modal">Нет</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+<!-- Обязательно подключаем библиотеку JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  </body>
+</html>
