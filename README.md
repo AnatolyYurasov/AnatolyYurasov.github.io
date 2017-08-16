@@ -18,7 +18,7 @@
 [Урок 16](https://AnatolyYurasov.github.io/Lesson_16/ "Моя готовая домашка") - Слайдеры  
 [Урок 17](https://AnatolyYurasov.github.io/Lesson_17/ "Моя готовая домашка") - Табы  
 [Урок 18](https://AnatolyYurasov.github.io/Lesson_18/ "Моя готовая домашка") - Табы и аккордеон  
-[Урок 19](https://AnatolyYurasov.github.io/Lesson_19/ "Моя готовая домашка") - Анимация CSS3  
+[Урок 19](https://AnatolyYurasov.github.io/Lesson_19/src "Моя готовая домашка") - Анимация CSS3  
 [Урок 20](https://AnatolyYurasov.github.io/Lesson_20/ "Моя готовая домашка") - Видео-фон на сайте     
   
 [Практика 1](https://AnatolyYurasov.github.io/Pract_1/src "Моя готовая домашка")  
