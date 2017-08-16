@@ -20,9 +20,9 @@
 [Практика 3](https://AnatolyYurasov.github.io/Pract_3/src "Моя готовая домашка")  
 [Урок 16](https://AnatolyYurasov.github.io/Lesson_16/ "Моя готовая домашка") - Слайдеры  
 [Практика 4](https://AnatolyYurasov.github.io/Pract_4/src "Моя готовая домашка")  
-[Урок 17](https://AnatolyYurasov.github.io/Lesson_17/ "Моя готовая домашка") - Табы и аккордеоны
+[Урок 17](https://AnatolyYurasov.github.io/Lesson_17/ "Моя готовая домашка") - Табы  
 [Практика 5](https://AnatolyYurasov.github.io/Pract_5/src "Моя готовая домашка")  
-[Урок 18](https://AnatolyYurasov.github.io/Lesson_18/ "Моя готовая домашка") -   
+[Урок 18](https://AnatolyYurasov.github.io/Lesson_18/ "Моя готовая домашка") - Табы и аккордеон  
 [Практика 6](https://AnatolyYurasov.github.io/Pract_6/src "Моя готовая домашка")  
 [Урок 19](https://AnatolyYurasov.github.io/Lesson_19/ "Моя готовая домашка") -   
 [Практика 7](https://AnatolyYurasov.github.io/Pract_7/src "Моя готовая домашка")  
