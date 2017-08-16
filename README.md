@@ -20,6 +20,8 @@
 [Урок 18](https://AnatolyYurasov.github.io/Lesson_18/ "Моя готовая домашка") - Табы и аккордеон  
 [Урок 19](https://AnatolyYurasov.github.io/Lesson_19/ "Моя готовая домашка") - Анимация CSS3  
 [Урок 20](https://AnatolyYurasov.github.io/Lesson_20/ "Моя готовая домашка") - Видео-фон на сайте     
+[Урок 21](https://AnatolyYurasov.github.io/Lesson_21/ "Моя готовая домашка") - Паралакс   
+[Урок 22](https://AnatolyYurasov.github.io/Lesson_22/ "Моя готовая домашка") - Карты  
   
 [Практика 1](https://AnatolyYurasov.github.io/Pract_1/src "Моя готовая домашка")  
 [Практика 2](https://AnatolyYurasov.github.io/Pract_2/src "Моя готовая домашка")  
